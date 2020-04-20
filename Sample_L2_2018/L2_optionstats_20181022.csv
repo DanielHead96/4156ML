@@ -1,0 +1,2 @@
+symbol,quotedate,iv30call,iv30put,iv30mean,callvol,putvol,totalvol,calloi,putoi,comment
+VIX,10/22/2018,0.5064,0.4942,0.5003,188023,61955,249978,5003554,1736897,
