@@ -4,6 +4,9 @@ https://www.investopedia.com/articles/optioninvestor/03/073003.asp
 Hayes, Adam. (2019). Candlestick Definition. Technical Analysis Basic Education
 https://www.investopedia.com/terms/c/candlestick.asp
 
-Black-Scholes Model
+Black-Scholes Model (BSM)
 https://www.investopedia.com/terms/b/blackscholes.asp
 https://www.youtube.com/watch?v=pr-u4LCFYEY
+
+bsm implementation source:
+https://github.com/QuantConnect/Tutorials/blob/master/06%20Introduction%20to%20Options%5B%5D/05%20Options%20Pricing%20Black%20Scholes%20Merton%20Model/05%20Option%20Pricing%20Black%20Scholes%20Merton%20Model.ipynb
