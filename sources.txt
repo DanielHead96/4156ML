@@ -13,3 +13,6 @@ https://github.com/QuantConnect/Tutorials/blob/master/06%20Introduction%20to%20O
 
 repos
 https://github.com/firmai/financial-machine-learning
+
+add method provided by:
+https://medium.com/@mgarod/dynamically-add-a-method-to-a-class-in-python-c49204b85bd6
